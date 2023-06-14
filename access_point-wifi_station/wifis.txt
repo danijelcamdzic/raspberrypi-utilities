@@ -1,2 +1,2 @@
-BakocevicWifi        03081997dado    WPA-PSK
+BakocevicWifi        12345678dado    WPA-PSK
 Danijels_iPhone         password1    WPA-PSK
